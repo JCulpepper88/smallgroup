@@ -89,7 +89,7 @@ border: 0;
 	overflow-x: hidden; /*Disable horizontal scroll*/
 }
 body.minorprophets {
-	background-image: url("minor_prophets_picture2.jpg");
+	background-image: url("minor_prophets/minor_prophets_picture2.jpg");
 	height: 100%;
 	
 }
