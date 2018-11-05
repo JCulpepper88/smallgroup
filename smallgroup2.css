@@ -94,12 +94,12 @@ body.minorprophets {
 	
 }
 body.romans {
-	background-image: url("romans4.jpg");
+	background-image: url("romans/romans4.jpg");
 	height: 100%;
 }
 	
 body.pneuma {
-	background-image: url("pneuma.jpg");
+	background-image: url("pneuma_nuggets/pneuma.jpg");
 	height: 100%;
 	color: white;
 }
